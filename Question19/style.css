@@ -1,0 +1,44 @@
+.btn-default{
+    font-size: auto;   
+    color :black;
+    padding:2px 30px;
+    border : 2px solid green;
+    border-radius : 10%;
+    background-color : white;
+    margin-left: 535px;
+}
+button.btn-default:hover{
+    font-size: auto;   
+    color :black;
+    padding:2px 30px;
+    border : 2px solid rgb(2, 41, 2);
+    border-radius : 10%;
+    background-color : whitesmoke;
+    
+}
+.inpu{
+    height: 25px;
+    width : 500px;
+    text-align:center;
+
+}
+.inpu:hover{
+    height: 28px;
+    width: 510px;
+    border-color:rgb(164, 79, 243);
+}
+.div-center{
+    text-align: center;
+    margin-top: 15px;
+    height : 30px;
+    width : 520px;
+}
+.div-main{
+    text-align: center;
+    margin-top: 7px;
+    background-color: rgb(49, 152, 170); 
+   
+}
+.div-top{
+    margin : 250px 250px 250px 250px
+}
